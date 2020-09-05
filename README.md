@@ -1,2 +1,2 @@
 # Foodie-Squad
-my first repository
+Foodie Squad People ;)
